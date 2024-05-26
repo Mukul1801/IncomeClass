@@ -1,2 +1,2 @@
 # IncomeClass
-Used kaggle dataset to predict the income class.
+Used Kaggle dataset to predict the income class for individuals based on their census data collected.
